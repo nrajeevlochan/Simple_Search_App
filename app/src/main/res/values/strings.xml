@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Search App</string>
+    <string name="title_searchresult_detail">SearchResult Detail</string>
+</resources>
